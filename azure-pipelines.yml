@@ -22,7 +22,7 @@ steps:
     deploymentScope: 'Resource Group'
     azureResourceManagerConnection: 'Visual Studio Enterprise Subscription(659c44a6-5996-4f09-ba95-98effa91c363)'
     subscriptionId: '659c44a6-5996-4f09-ba95-98effa91c363'
-    action: 'Create Or Update Resource Group'
+    action: 'Create'
     resourceGroupName: 'CybersecuritySales'
     location: 'East US'
   
