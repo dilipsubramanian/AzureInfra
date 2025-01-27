@@ -25,5 +25,4 @@ steps:
     action: 'Create Or Update Resource Group'
     resourceGroupName: 'CybersecuritySales'
     location: 'East US'
-    templateLocation: 'Linked artifact'
-    deploymentMode: 'Incremental'
+  
